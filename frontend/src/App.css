@@ -10,11 +10,17 @@ body {
   background-color: goldenrod;
   display: flex;
   height: 100vh;
-  width: 15%;
+  width: 30%;
   float: left;
   overflow: "scroll initial";
 }
 
 .inner-side {
   margin: 50px;
+}
+
+.forms {
+  font-size: large;
+  width: 30%;
+  margin: auto;
 }
